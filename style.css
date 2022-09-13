@@ -1,4 +1,9 @@
-html, body {
+.bg {
+  background-image: url("img/download.jpg");
   height: 100%;
-  width: 100%;
+  width: auto;
+    background-repeat: no-repeat;
+  background-size:100%
 }
+
+
